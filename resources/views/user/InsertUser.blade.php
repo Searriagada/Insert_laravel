@@ -6,7 +6,7 @@
     <title>Formulario insertar usuario</title>
 </head>
 <body>
-    <h1>Es hora de crear un usuario</h1>
+    <h1>Es hora de crear un nuevo usuario</h1>
     <Table>
         <form action="/evaluacion_02_Software_web/public/User/UserInsert" method="POST">
             @csrf
